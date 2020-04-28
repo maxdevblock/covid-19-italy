@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: articolo-R0.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: IEEEabrv.bib
+Database file #2: articoloR0.bib
+Warning--I'm ignoring pcm_dpc_2020's extra "url" field
+--line 24 of file articoloR0.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in fassina2013modelli
+Warning--empty journal in ceps_pubblication
+Warning--empty journal in kissler_tedijanto_lipsitch_grad_2020
+Warning--empty year in k-sys
+Warning--empty journal in report_2020
+Warning--empty author in wikipedia_2020
+
+Done.
+You've used 12 entries,
+            4087 wiz_defined-function locations,
+            1408 strings with 20330 characters,
+and the built_in function-call counts, 5695 in all, are:
+= -- 462
+> -- 139
+< -- 5
++ -- 67
+- -- 33
+* -- 306
+:= -- 1083
+add.period$ -- 24
+call.type$ -- 12
+change.case$ -- 12
+chr.to.int$ -- 0
+cite$ -- 18
+duplicate$ -- 461
+empty$ -- 461
+format.name$ -- 39
+if$ -- 1222
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 86
+newline$ -- 83
+num.names$ -- 11
+pop$ -- 219
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 424
+stack$ -- 0
+substring$ -- 22
+swap$ -- 284
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 12
+warning$ -- 6
+while$ -- 12
+width$ -- 14
+write$ -- 153
+(There were 7 warnings)

@@ -1,0 +1,14 @@
+((*- extends 'article.tplx' -*))
+
+((* block author *))
+\author{Max Pierini\thanks{info@maxpierini.it, maxpierini.it/ncov}}
+((* endblock author *))
+
+((* block title *))
+\title{I tassi di riproduzione nelle epidemie}
+((* endblock title *))
+
+((* block bibliography *))
+\bibliographystyle{IEEEtran}
+\bibliography{IEEEabrv,articoloR0}
+((* endblock bibliography *))
