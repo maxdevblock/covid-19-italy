@@ -1,7 +1,7 @@
 ((*- extends 'article.tplx' -*))
 
 ((* block author *))
-\author{Max Pierini\thanks{info@maxpierini.it, maxpierini.it/ncov}}
+\author{Max Pierini\thanks{info@maxpierini.it}}
 ((* endblock author *))
 
 ((* block title *))

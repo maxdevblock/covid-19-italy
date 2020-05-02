@@ -1,0 +1,14 @@
+((*- extends 'article.tplx' -*))
+
+((* block author *))
+\author{Max Pierini\thanks{info@maxpierini.it}}
+((* endblock author *))
+
+((* block title *))
+\title{Four fitting model comparison for SARS-nCoV-2 total cumulative cases curve in 185 countries.}
+((* endblock title *))
+
+((* block bibliography *))
+\bibliographystyle{IEEEtran}
+\bibliography{IEEEabrv,articolobib}
+((* endblock bibliography *))
