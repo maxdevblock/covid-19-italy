@@ -5,10 +5,10 @@
 ((* endblock author *))
 
 ((* block title *))
-\title{Four fitting model comparison for SARS-nCoV-2 total cumulative cases curve in 185 countries.}
+\title{Four fitting models comparison for SARS-nCoV-2 total cumulative cases curves}
 ((* endblock title *))
 
 ((* block bibliography *))
 \bibliographystyle{IEEEtran}
-\bibliography{IEEEabrv,articolobib}
+\bibliography{IEEEabrv,articolo}
 ((* endblock bibliography *))
