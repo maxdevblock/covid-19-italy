@@ -1,0 +1,70 @@
+
+\begin{table}
+  \begin{center}
+    \caption{Models statistics.}
+    \label{tab:table1}
+    \resizebox{\textwidth}{!} {
+    \begin{tabular}{c|c|c|c|c|c|c|c|c|c|c|c|c|c}
+        \toprule
+        & & & & & & & & & $p>.99$ & $p>.99$ & $p<.5$ & $\Delta > 0$ & \\
+        $\mathbf{H_0}$ &
+        $\mathbf{MAE}$ & $\mathbf{NAE}$ & 
+        $\mathbf{MBE}$ & $\mathbf{NBE}$ & 
+        $\mathbf{MSE}$ & $\mathbf{RMSE}$ &
+        $\mathbf{NRMSE}$ & $\mathbf{R}$ &
+        $\mathbf{R^2}$ & $\mathbf{R^2_{adj}}$ &
+        $\Delta \mathbf{AIC}$ & $\Delta \mathbf{BIC}$ &
+        $\mathbf{H_1}$ \\
+
+        \midrule
+         & & & & & & & & & & & 64.71\% & 64.71\% & SLF \\
+         \textbf{SGF} & 
+             113 & 0.025888 & 
+             2.49 & 0.000568 & 
+             559958 & 748 & 
+             0.006672 & 0.999773 & 
+             74.87\% & 
+             74.33\% & 
+             16.58\% & 22.99\% & DGF \\
+         & & & & & & & & & & & 35.48\% & 40.86\% & DLF \\
+
+        \midrule
+         & & & & & & & & & & & 35.29\% & 35.29\% & SGF \\
+         \textbf{SLF} & 
+             223 & 0.050858 & 
+             -4.95 & -0.001130 & 
+             2327868 & 1526 & 
+             0.027737 & 0.999056 & 
+             74.33\% & 
+             73.80\% & 
+             13.37\% & 18.18\% & DGF \\
+         & & & & & & & & & & & 13.98\% & 20.43\% & DLF \\
+
+        \midrule
+         & & & & & & & & & & & 83.42\% & 77.01\% & SGF \\
+         \textbf{DGF} & 
+             58 & 0.013196 & 
+             3.56 & 0.000812 & 
+             150246 & 388 & 
+             0.001790 & 0.999939 & 
+             87.70\% & 
+             86.10\% & 
+             86.63\% & 81.82\% & SLF \\
+         & & & & & & & & & & & 64.52\% & 64.52\% & DLF \\
+
+        \midrule
+         & & & & & & & & & & & 64.52\% & 59.14\% & SGF \\
+         \textbf{DLF} & 
+             104 & 0.023764 & 
+             -11.21 & -0.002559 & 
+             555570 & 745 & 
+             0.006620 & 0.999775 & 
+             86.56\% & 
+             86.02\% & 
+             86.02\% & 79.57\% & SLF \\
+         & & & & & & & & & & & 35.48\% & 35.48\% & DGF \\
+
+        \bottomrule
+    \end{tabular} }
+  \end{center}
+\end{table}
