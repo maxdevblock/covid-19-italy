@@ -1,0 +1,13 @@
+((*- extends 'article.tplx' -*))
+
+((* block author *))
+\author{Max Pierini}
+\date{%
+    \href{mailto:info@maxpierini.it}{info@maxpierini.it}\\%
+    \today
+}
+((* endblock author *))
+
+((* block title *))
+\title{TEST RIPETUTI}
+((* endblock title *))

@@ -1,11 +1,17 @@
 ((*- extends 'article.tplx' -*))
 
 ((* block author *))
-\author{Max Pierini\thanks{info@maxpierini.it}}
+\author{Max Pierini}
+\date{%
+    $^*$\href{mailto:info@maxpierini.it}{info@maxpierini.it}\\%
+    \href{https://t.me/notiziae}{NOTIZI\AE}\\%
+    \href{https://maxpierini.it/ncov}{nCoV website}\\[2ex]%
+    \today
+}
 ((* endblock author *))
 
 ((* block title *))
-\title{COVID-19: perché si effettuano due o più "tamponi"? Quanti test sono necessari a ritenere sano o guarito un individuo?}
+\title{COVID-19: perché si effettuano due o più test? Quanti test sono necessari o sufficienti per ritenere infetto, sano o guarito un individuo?}
 ((* endblock title *))
 
 ((* block bibliography *))
