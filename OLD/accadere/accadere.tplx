@@ -1,0 +1,20 @@
+((*- extends 'article.tplx' -*))
+
+((* block author *))
+\author{Max Pierini}
+\date{%
+    $^*$\href{mailto:info@maxpierini.it}{info@maxpierini.it}\\%
+    %\href{https://t.me/notiziae}{NOTIZI\AE}\\%
+    %\href{https://maxpierini.it/ncov}{nCoV website}\\[2ex]%
+    \today
+}
+((* endblock author *))
+
+((* block title *))
+\title{Cosa accadrà domani?}
+((* endblock title *))
+
+((* block bibliography *))
+%\bibliographystyle{IEEEtran}
+%\bibliography{IEEEabrv,biblio}
+((* endblock bibliography *))
