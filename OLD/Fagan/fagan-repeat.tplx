@@ -1,0 +1,18 @@
+((*- extends 'article.tplx' -*))
+
+((* block author *))
+\author{Max Pierini}
+\date{%
+    \href{mailto:info@maxpierini.it}{info@maxpierini.it}\\%
+    \today
+}
+((* endblock author *))
+
+((* block title *))
+\title{Nomogramma di Fagan esteso a test ripetuti: esempio di utilizzo}
+((* endblock title *))
+
+((* block bibliography *))
+\bibliographystyle{IEEEtran}
+\bibliography{IEEEabrv,fagan}
+((* endblock bibliography *))
