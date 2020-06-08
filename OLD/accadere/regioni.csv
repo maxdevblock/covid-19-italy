@@ -1,0 +1,21 @@
+Regione,Popolazione,Superficie,Densità,Comuni,Province,Confini
+Lombardia,10060574,23863,422,1506,12,Trentino-Alto Adige;Veneto;Piemonte;Emilia-Romagna
+Lazio,5879082,17232,341,378,5,Toscana;Umbria;Abruzzo;Campania;Sardegna
+Campania,5801692,13670,424,550,5,Lazio;Molise;Basilicata;Puglia
+Sicilia,4999891,25832,194,390,9,Calabria
+Veneto,4905854,18345,267,563,7,Lombardia;Friuli Venezia Giulia;Trentino-Alto Adige;Emilia-Romagna
+Emilia-Romagna,4459477,22452,199,328,9,Lombardia;Liguria;Toscana;Veneto;Marche
+Piemonte,4356406,25387,172,1181,8,Valle d'Aosta;Lombardia;Liguria
+Puglia,4029053,19540,206,257,6,Molise;Basilicata;Campania
+Toscana,3729641,22987,162,273,10,Emilia-Romagna;Umbria;Lazio
+Calabria,1947131,15221,128,404,5,Basilicata;Sicilia
+Sardegna,1639591,24100,68,377,5,Lazio
+Liguria,1550640,5416,286,234,4,Emilia-Romagna;Piemonte
+Marche,1525271,9401,162,228,5,Umbria;Abruzzo;Emilia-Romagna
+Abruzzo,1311580,10831,121,305,4,Marche;Molise;Lazio
+Friuli Venezia Giulia,1215220,7924,153,215,4,Veneto
+Trentino-Alto Adige,1072276,13605,79,282,2,Lombardia;Veneto
+Umbria,882015,8464,104,92,2,Toscana;Marche;Lazio
+Basilicata,562869,10073,56,131,2,Campania;Calabria;Puglia
+Molise,305617,4460,69,136,2,Abruzzo;Puglia;Campania
+Valle d'Aosta,125666,3260,39,74,1,Piemonte
